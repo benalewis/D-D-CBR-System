@@ -1,0 +1,8 @@
+How to run APK
+-----------------
+
+To run and look at the code the project can be opened in Android Studio
+https://developer.android.com/studio/index.html
+
+To run the application without downloading it, Test Object can be used
+https://testobject.com/
